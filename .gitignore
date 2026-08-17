@@ -1,0 +1,18 @@
+# Wi-Fi credentials / local secrets
+firmware/secrets.h
+
+# Arduino IDE / build artifacts
+*.bin
+*.elf
+*.hex
+*.map
+build/
+
+# PlatformIO (if used later)
+.pio/
+
+# Editor / OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
